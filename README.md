@@ -10,10 +10,6 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ompanchal2004@gmail.com)
 
   <br/> 
-
-  ![](https://github-readme-stats.vercel.app/api?username=OM1246&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OM1246&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph"  />
-
 </div>
 
 <br/>
